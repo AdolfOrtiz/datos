@@ -1,0 +1,36 @@
+{
+  "person": {
+    "full_name": "Adolf Emmanuel Ortiz Acuitlapa",
+    "known_as": "Adolf Ortiz",
+    "origin": "Estado de México, México",
+    "official_photo": "adolf-emmanuel-ortiz-acuitlapa.jpg",
+    "academic_profile": {
+      "degree": "Ingeniería en Sistemas Computacionales",
+      "institution": "Tecnológico de Estudios Superiores de Villa Guerrero (TESVG)"
+    },
+    "esports_trajectory": {
+      "role": "Assistant Coach / Analista",
+      "specialization": "League of Legends",
+      "current_organization": "Kaox Esports",
+      "circuits": ["LVP", "LRN"],
+      "background": {
+        "experience_years": 5,
+        "past_roles": ["Jugador Institucional PUBG Mobile"],
+        "tournaments": ["Campus Program TESVG"]
+      }
+    },
+    "cultural_profile": {
+      "role": "Cantante Principal",
+      "affiliation": "Grupo Representativo del TESVG",
+      "achievements": [
+        {
+          "event": "XL Encuentro Nacional de Arte y Cultura del TECNM",
+          "location": "Tamaulipas, México",
+          "year": 2024,
+          "representation": "Estatal y Federal"
+        }
+      ]
+    },
+    "skills": ["Liderazgo", "Análisis táctico bajo presión", "Gestión de equipos de alto rendimiento", "Expresión artística"]
+  }
+}
